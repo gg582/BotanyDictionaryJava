@@ -1,0 +1,6 @@
+USE taxonomy;
+DROP TABLE IF EXISTS taxon_name;
+DROP TABLE IF EXISTS taxon;
+DROP TABLE IF EXISTS division;
+DROP DATABASE IF EXISTS plant_taxonomy;
+
